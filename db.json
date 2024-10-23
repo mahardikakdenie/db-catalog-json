@@ -9,6 +9,7 @@
   "profile": { "name": "John Doe" },
   "products": [
     {
+      "id": 1,
       "name": "Acme Circles T-shirt"
     }
   ]
