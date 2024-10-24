@@ -1,16 +1,386 @@
 {
-  "posts": [
-    { "id": 1, "title": "Hello World" },
-    { "id": 2, "title": "Another Post" }
-  ],
-  "comments": [
-    { "id": 1, "body": "Nice post!", "postId": 1 }
-  ],
-  "profile": { "name": "John Doe" },
   "products": [
     {
-      "id": 1,
-      "name": "Acme Circles T-shirt"
+      "_id": {
+        "$oid": "633ff0ef2cea8d53dc434f02"
+      },
+      "user_id": {
+        "$oid": "63367008b0b74d07385b2812"
+      },
+      "created_by": {
+        "$oid": "63367008b0b74d07385b2812"
+      },
+      "is_deleted": true,
+      "name": "Gamis Anak Lucu",
+      "slug": "gamis-anak-lucu",
+      "code": "GAL01",
+      "type": "simple",
+      "variations": {
+        "attributes": [],
+        "prices": [],
+        "multiple_variations": {
+          "enabled": false
+        }
+      },
+      "price": 50000,
+      "sale_price": {
+        "enabled": false,
+        "price": 0,
+        "schedule": {
+          "enabled": false,
+          "since": "",
+          "until": ""
+        }
+      },
+      "wholesale": [],
+      "unique_code_price": {
+        "enabled": true,
+        "type": "decrease",
+        "min": 1,
+        "max": "23"
+      },
+      "bump": {
+        "status": false,
+        "name": "",
+        "price": 0,
+        "weight": 1,
+        "url": "",
+        "data": {
+          "checkbox_label": "Centang untuk memesan juga",
+          "title": "Nama Produk Bump Anda + Harga",
+          "description": "Penjelasan Tentang Produk Bump Anda Disini",
+          "image": ""
+        }
+      },
+      "weight": 600,
+      "status": "live",
+      "status_number": 200,
+      "pictures": [
+        "https://cdn.inventro.id/uploads/2022/10/8452141665134614863.jpeg"
+      ],
+      "videos": [
+        ""
+      ],
+      "commission_percentage": 5,
+      "payments": [
+        "cod",
+        "instant"
+      ],
+      "shipping": {
+        "enabled": true,
+        "free_shipping": false,
+        "flat_shipping": false,
+        "flat_price": 0,
+        "origin": {
+          "id": 340,
+          "type": "subdistrict",
+          "name": "Arcamanik",
+          "province_id": 9,
+          "province_name": "Jawa Barat",
+          "city_id": 23,
+          "city_name": "Kota Bandung",
+          "subdistrict_id": 340,
+          "subdistrict_name": "Arcamanik",
+          "address": "Jl. Golf Barat III No. 10 Arcamanik, Bandung",
+          "phone_1": "082211110045",
+          "phone_2": "088297367573",
+          "zip": 40293
+        },
+        "couriers": [
+          "sicepat",
+          "jne",
+          "jnt",
+          "tiki"
+        ],
+        "services": [
+          "regular"
+        ],
+        "markup": 0,
+        "cod": {
+          "key": "custom",
+          "label": "Custom",
+          "percentage": 5,
+          "minimal": 5000,
+          "maximal": 15000,
+          "includeShipping": true,
+          "feeType": "product"
+        },
+        "cod_couriers": [
+          "sap"
+        ],
+        "mode": "normal"
+      },
+      "notifications": [
+        {
+          "name": "email",
+          "data": "mouzagroup@gmail.com"
+        }
+      ],
+      "autoresponders": [],
+      "facebook_custom_audiences": [],
+      "sms_gateways": [],
+      "wa_gateways": [],
+      "stock": {
+        "enabled": true,
+        "quantity": 100,
+        "backorder": 1,
+        "status": 1,
+        "visible": false
+      },
+      "category": {
+        "category": "Fashion Anak",
+        "category_slug": "fashion-anak",
+        "sub_category": "Pakaian Anak Perempuan",
+        "sub_category_slug": "pakaian-anak-perempuan",
+        "sub_sub_category": "Dress",
+        "sub_sub_category_slug": "dress"
+      },
+      "cogs": 47500,
+      "is_public": false,
+      "description": "<p>Baju anak berkwalitas premium dengan bahan baby doll</p>",
+      "max_quantity": {
+        "enabled": false,
+        "value": 1
+      },
+      "payment_channels_descriptions": {},
+      "payment_methods_descriptions": {},
+      "updated_at": {
+        "$date": "2024-02-22T03:58:47.000Z"
+      },
+      "created_at": {
+        "$date": "2023-05-15T02:30:21.000Z"
+      },
+      "change_logs": [],
+      "deleted_at": {
+        "$date": "2022-10-11T06:22:00.000Z"
+      },
+      "deleted_by": {
+        "$oid": "6203408668d4d908a23f2d92"
+      },
+      "blacklisted_sellers_count": 0
+    },
+    {
+      "_id": {
+        "$oid": "6342ed19e03ae72f0e76a002"
+      },
+      "user_id": {
+        "$oid": "633670da9a6dfa380b1caf82"
+      },
+      "created_by": {
+        "$oid": "633670da9a6dfa380b1caf82"
+      },
+      "is_deleted": false,
+      "name": "Shaza Sandals",
+      "slug": "ansa-sandals",
+      "code": "EDJ",
+      "type": "simple",
+      "variations": {
+        "attributes": [],
+        "prices": [],
+        "multiple_variations": {
+          "enabled": false
+        }
+      },
+      "price": 107250,
+      "sale_price": {
+        "enabled": false,
+        "price": 0,
+        "schedule": {
+          "enabled": false,
+          "since": "09-10-2022 00:00:01",
+          "until": "09-10-2022 23:59:59"
+        }
+      },
+      "wholesale": [],
+      "unique_code_price": {
+        "enabled": true,
+        "type": "decrease",
+        "min": 1,
+        "max": "45"
+      },
+      "bump": {
+        "status": false,
+        "name": "",
+        "price": 0,
+        "weight": 1,
+        "url": "",
+        "data": {
+          "checkbox_label": "Centang untuk memesan juga",
+          "title": "Nama Produk Bump Anda + Harga",
+          "description": "Penjelasan Tentang Produk Bump Anda Disini",
+          "image": ""
+        }
+      },
+      "weight": 500,
+      "status": "disabled",
+      "status_number": 400,
+      "pictures": [
+        "https://cdn.inventro.id/uploads/2022/10/2510851665330084337.jpg",
+        "https://cdn.inventro.id/uploads/2022/10/8091871665330534075.jpg"
+      ],
+      "videos": [
+        ""
+      ],
+      "commission_percentage": 5,
+      "payments": [
+        "cod",
+        "instant"
+      ],
+      "shipping": {
+        "enabled": true,
+        "free_shipping": false,
+        "flat_shipping": false,
+        "flat_price": 0,
+        "origin": {
+          "id": 337,
+          "type": "subdistrict",
+          "name": "Soreang",
+          "province_id": 9,
+          "province_name": "Jawa Barat",
+          "city_id": 22,
+          "city_name": "Kab. Bandung",
+          "subdistrict_id": 337,
+          "subdistrict_name": "Soreang",
+          "address": "Jalan Sadu No. 203 Desa Sadu Kecamatan Soreang Kabupaten Bandung Jawa Barat",
+          "zip": 40914
+        },
+        "couriers": [
+          "jne"
+        ],
+        "services": [
+          "regular"
+        ],
+        "markup": 0,
+        "cod": {
+          "key": "custom",
+          "label": "Custom",
+          "percentage": 5,
+          "minimal": 5000,
+          "maximal": 15000,
+          "includeShipping": true,
+          "feeType": "product"
+        },
+        "cod_couriers": [
+          "jne"
+        ],
+        "mode": "normal"
+      },
+      "notifications": [
+        {
+          "name": "email",
+          "data": "ammarkids.center@gmail.com"
+        }
+      ],
+      "autoresponders": [],
+      "facebook_custom_audiences": [],
+      "sms_gateways": [],
+      "wa_gateways": [],
+      "affiliates": [],
+      "sales_page_view": 0,
+      "reseller": {
+        "enabled": false,
+        "commission": {
+          "value": "commission",
+          "label": "Commission"
+        },
+        "commission_type": "commission",
+        "override_commission_type": false,
+        "override_reseller_product_tier": false,
+        "point": 1,
+        "tiers": []
+      },
+      "dropship": {
+        "enabled": true,
+        "type": "nominal",
+        "margin": 40000,
+        "max_dropshipper": "10",
+        "current_dropshipper": 0,
+        "original_price": 107250,
+        "enable": true,
+        "current_dropship": 1
+      },
+      "belongs_to": [],
+      "belongs_to_names": [],
+      "order_distribution": {
+        "type": "equal",
+        "counter": 0,
+        "next_index": 0,
+        "team_members": []
+      },
+      "stock": {
+        "enabled": true,
+        "quantity": 380,
+        "backorder": 1,
+        "status": 1,
+        "visible": false
+      },
+      "category": {
+        "category": "Fashion Anak",
+        "category_slug": "fashion-anak",
+        "sub_category": "Sepatu Anak Laki-laki",
+        "sub_category_slug": "sepatu-anak-laki-laki",
+        "sub_sub_category": "Sepatu Sandal",
+        "sub_sub_category_slug": "sepatu-sandal"
+      },
+      "cogs": 101887,
+      "is_public": false,
+      "description": "<h3><span style=\"text-align: left;display: block\"><span style=\"color: rgb(101, 101, 101)\"><span style=\"background-color: #fff\">Benefit seller</span></span></span></h3><p><span style=\"text-align: left;display: block\"><span style=\"color: rgb(0, 0, 0)\"><span style=\"background-color: #fff\">✅Potensi margin Tinggi</span></span></span></p><p><span style=\"text-align: left;display: block\"><span style=\"color: rgb(0, 0, 0)\"><span style=\"background-color: #fff\">✅Modal sangat murah Langsung dari tangan pertama</span></span></span></p><p><span style=\"text-align: left;display: block\"><span style=\"color: rgb(0, 0, 0)\"><span style=\"background-color: #fff\">✅Harga rekomendasi adalah harga minimal untuk jual ecer/end user</span></span></span></p><p><span style=\"text-align: left;display: block\"><span style=\"color: rgb(0, 0, 0)\"><span style=\"background-color: #fff\">✅Produksi sendiri stock produk aman</span></span></span></p><p><span style=\"text-align: left;display: block\"><span style=\"color: rgb(0, 0, 0)\"><span style=\"background-color: #fff\">✅100% ORIGINAL</span></span></span></p><p><span style=\"text-align: left;display: block\"><span style=\"color: rgb(0, 0, 0)\"><span style=\"background-color: #fff\">✅Bisa COD</span></span></span></p><p></p><p>SHAZA CUTE SANDALS</p><p>Warna sangat kekinian dan ukuran yang pas dengan anak bunda tercinta</p><p>SIZE CHART</p><p>UKURAN 28 30 32 34</p><p>PANJANG KAKI 16,5 17,5 18,5 19,5</p><p><img src=\"https://cdn.inventro.id/uploads/2022/10/5669961665459198840.jpg\"></p><p>Ukuran dalam Satuan Centimeter</p><p>Note:</p><ul><li><p>Ukur Berdasarkan panjang kaki,hitung berapa cm panjangnya dan itulah panjang kaki anak Bunda</p></li><li><p>Jika panjang Kaki tidak sesuai dengan tabel diatas pilih yang mendekati</p><p>Contoh: Panjang kaki anak Bunda adalah 16 cm, Bunda bisa memilih Size 28 atau 30</p></li><li><p></p></li></ul><p>Perlu diperhatikan untuk lama produksi memakan waktu 3 minggu</p><p>Tapi kami akan usahakan sebelum produk menyentuh angka 50pcs kami akan langsung produksi ulang bila memang produk ini banyak permintaan di inventro</p>",
+      "max_quantity": {
+        "enabled": false,
+        "value": 1
+      },
+      "payment_channels": [
+        "credit_card",
+        "echannel",
+        "bca_va",
+        "bni_va",
+        "permata_va",
+        "gopay",
+        "ovo",
+        "dana",
+        "shopeepay",
+        "alfamart"
+      ],
+      "payment_channels_descriptions": {},
+      "payment_methods_descriptions": {},
+      "updated_at": {
+        "$date": "2024-02-22T03:58:47.000Z"
+      },
+      "created_at": {
+        "$date": "2023-05-15T02:30:21.000Z"
+      },
+      "traffic_distribution": {
+        "counter": 7,
+        "forms": [
+          {
+            "form_id": {
+              "$oid": "6342ed19e03ae72f0e76a004"
+            },
+            "percentage": 100,
+            "quota": 7
+          }
+        ]
+      },
+      "change_logs": [],
+      "collections": [],
+      "pages": [
+        {
+          "type": {
+            "value": "orderonline",
+            "label": "Order Online",
+            "disabled": false
+          },
+          "url": "https://app.orderonline.id/funnels/sharer/636c6a2ee8069b670c09b3eb",
+          "previews": []
+        }
+      ],
+      "suspend_note": "mohon disesuaikan Harga nya, di Market Place lebih murah dibanding harga ke inventro",
+      "marketing_kit": {
+        "link": "https://drive.google.com/drive/folders/1NDbSisYLuymh-D8ECQTfsM5feSzbV70B?usp=share_link",
+        "description": "Link Google Drive Marketing Kit Product",
+        "visible": true
+      },
+      "blacklisted_sellers_count": 0
     }
   ]
 }
