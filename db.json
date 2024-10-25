@@ -6,6 +6,7 @@
       },
       "price": "20000",
       "name": "Gamis Anak Lucu",
+      "slug": "gamis-anak-lucu",
       "type": "simple",
       "variations": {
         "attributes": [],
@@ -32,6 +33,7 @@
       },
       "price": "20000",
       "name": "Shaza Sandals",
+      "slug": "shaza-sandals",
       "type": "simple",
       "variations": {
         "attributes": [],
@@ -58,6 +60,7 @@
       },
       "price": "20000",
       "name": "SHAZA SANDAL COKLAT",
+      "slug": "shaza-sandal-coklat",
       "type": "simple",
       "variations": {
         "attributes": [],
@@ -84,6 +87,7 @@
       },
       "price": "20000",
       "name": "KAHFI SANDAL",
+      "slug": "kahfi-sandal",
       "type": "simple",
       "variations": {
         "attributes": [],
