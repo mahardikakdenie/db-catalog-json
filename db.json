@@ -3,7 +3,7 @@
     {
       "id": 1,
       "price": "20000",
-      "name": "Gamis Anak Lucu",
+    "name": "Gamis Anak Lucu",
       "slug": "gamis-anak-lucu",
       "type": "simple",
       "variations": {
@@ -14,7 +14,14 @@
         }
       },
       "pictures": [
-        "https://www.lelongindonesia.com/public/uploads/all/aWormxAADtZMXkBysvRgHer4aHzG5MgoZg9c4GwT.jpg"
+        "https://www.lelongindonesia.com/public/uploads/all/aWormxAADtZMXkBysvRgHer4aHzG5MgoZg9c4GwT.jpg",
+        "https://www.lelongindonesia.com/public/uploads/all/HLo6hTpas5ljw0f7EHE5CASs04bTqR0d7mOgaCxx.jpg",
+        "https://www.lelongindonesia.com/public/uploads/all/4UGka2I9YrfSvMDuq9gTgGvFCI85vMhqsc7j6mzL.jpg",
+        "https://www.lelongindonesia.com/public/uploads/all/NWeWjNEFBFzAZSNdlSwDcscK35wE8JWfH4TQpCV4.jpg",
+        "https://www.lelongindonesia.com/public/uploads/all/WBz7ptxq8hODhIklJi0bNk3wHgC3DTvWRd18Ae7s.jpg",
+        "https://www.lelongindonesia.com/public/uploads/all/X8KpISmgT10uDRGktHTWANjdJF7RIQOMQvqqjOA5.jpg",
+        "https://www.lelongindonesia.com/public/uploads/all/VGKxpT5i5BwoeNIYEjhFSeZ0O4ks45I9O6eYuWds.jpg",
+        "https://www.lelongindonesia.com/public/uploads/all/jx1rnFQBIFYyj2gZuJL8pb4Z6RPKwiN2l62IAMoj.jpg"
       ],
       "stock": {
         "enabled": true,
