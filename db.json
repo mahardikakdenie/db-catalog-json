@@ -1,9 +1,7 @@
 {
   "products": [
     {
-      "_id": {
-        "$oid": "633ff0ef2cea8d53dc434f02"
-      },
+      "id": 1,
       "price": "20000",
       "name": "Gamis Anak Lucu",
       "slug": "gamis-anak-lucu",
@@ -28,9 +26,7 @@
       "description": "<p>Baju anak berkwalitas premium dengan bahan baby doll</p>"
     },
     {
-      "_id": {
-        "$oid": "6342ed19e03ae72f0e76a002"
-      },
+      "id": 2,
       "price": "20000",
       "name": "Shaza Sandals",
       "slug": "shaza-sandals",
@@ -55,9 +51,7 @@
       "description": "<h3><span style=\"text-align: left;display: block\"><span style=\"color: rgb(101, 101, 101)\"><span style=\"background-color: #fff\">Benefit seller</span></span></span></h3><p><span style=\"text-align: left;display: block\"><span style=\"color: rgb(0, 0, 0)\"><span style=\"background-color: #fff\">✅Potensi margin Tinggi</span></span></span></p><p><span style=\"text-align: left;display: block\"><span style=\"color: rgb(0, 0, 0)\"><span style=\"background-color: #fff\">✅Modal sangat murah Langsung dari tangan pertama</span></span></span></p><p><span style=\"text-align: left;display: block\"><span style=\"color: rgb(0, 0, 0)\"><span style=\"background-color: #fff\">✅Harga rekomendasi adalah harga minimal untuk jual ecer/end user</span></span></span></p><p><span style=\"text-align: left;display: block\"><span style=\"color: rgb(0, 0, 0)\"><span style=\"background-color: #fff\">✅Produksi sendiri stock produk aman</span></span></span></p><p><span style=\"text-align: left;display: block\"><span style=\"color: rgb(0, 0, 0)\"><span style=\"background-color: #fff\">✅100% ORIGINAL</span></span></span></p><p><span style=\"text-align: left;display: block\"><span style=\"color: rgb(0, 0, 0)\"><span style=\"background-color: #fff\">✅Bisa COD</span></span></span></p><p></p><p>SHAZA CUTE SANDALS</p><p>Warna sangat kekinian dan ukuran yang pas dengan anak bunda tercinta</p><p>SIZE CHART</p><p>UKURAN 28 30 32 34</p><p>PANJANG KAKI 16,5 17,5 18,5 19,5</p><p><img src=\"https://cdn.inventro.id/uploads/2022/10/5669961665459198840.jpg\"></p><p>Ukuran dalam Satuan Centimeter</p><p>Note:</p><ul><li><p>Ukur Berdasarkan panjang kaki,hitung berapa cm panjangnya dan itulah panjang kaki anak Bunda</p></li><li><p>Jika panjang Kaki tidak sesuai dengan tabel diatas pilih yang mendekati</p><p>Contoh: Panjang kaki anak Bunda adalah 16 cm, Bunda bisa memilih Size 28 atau 30</p></li><li><p></p></li></ul><p>Perlu diperhatikan untuk lama produksi memakan waktu 3 minggu</p><p>Tapi kami akan usahakan sebelum produk menyentuh angka 50pcs kami akan langsung produksi ulang bila memang produk ini banyak permintaan di inventro</p>"
     },
     {
-      "_id": {
-        "$oid": "6342ef58bbd5f82c8743a012"
-      },
+      "id": 3,
       "price": "20000",
       "name": "SHAZA SANDAL COKLAT",
       "slug": "shaza-sandal-coklat",
@@ -82,9 +76,7 @@
       "description": "<p>SHAZA SANDAL COKLAT</p><p>Warna sangat kekinian dan ukuran yang pas dengan anak bunda tercinta</p><p></p><p>SIZE CHART</p><p>UKURAN 28 30 32 34</p><p>PANJANG KAKI 16,5 17,5 18,5 19,5</p><p><img src=\"https://cdn.inventro.id/uploads/2022/10/3518841665459162190.png\"></p><p>Ukuran dalam Satuan Centimeter</p><p>Note:</p><ul><li><p>Ukur Berdasarkan panjang kaki,hitung berapa cm panjangnya dan itulah panjang kaki anak Bunda</p></li><li><p>Jika panjang Kaki tidak sesuai dengan tabel diatas pilih yang mendekati</p><p>Contoh: Panjang kaki anak Bunda adalah 16 cm, Bunda bisa memilih Size 28 atau 30</p></li></ul><p>Perlu diperhatikan untuk lama produksi memakan waktu 3 minggu</p><p>Tapi kami akan usahakan sebelum produk menyentuh angka 50pcs kami akan langsung produksi ulang bila memang produk ini banyak permintaan di inventro</p>"
     },
     {
-      "_id": {
-        "$oid": "6342f0db2cb6025b7d4887c2"
-      },
+      "id": 4,
       "price": "20000",
       "name": "KAHFI SANDAL",
       "slug": "kahfi-sandal",
