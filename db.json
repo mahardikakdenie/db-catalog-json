@@ -1,118 +1,65 @@
 {
 	"products": [
 		{
-			"id": 1,
-			"price": "20000",
-      "rating": 5,
-			"name": "Gamis Anak Lucu",
-			"slug": "gamis-anak-lucu",
-			"type": "simple",
-			"variations": {
-				"attributes": [],
-				"prices": [],
-				"multiple_variations": {
-					"enabled": false
-				}
-			},
-			"pictures": [
-				"https://www.lelongindonesia.com/public/uploads/all/aWormxAADtZMXkBysvRgHer4aHzG5MgoZg9c4GwT.jpg",
-				"https://www.lelongindonesia.com/public/uploads/all/HLo6hTpas5ljw0f7EHE5CASs04bTqR0d7mOgaCxx.jpg",
-				"https://www.lelongindonesia.com/public/uploads/all/4UGka2I9YrfSvMDuq9gTgGvFCI85vMhqsc7j6mzL.jpg",
-				"https://www.lelongindonesia.com/public/uploads/all/NWeWjNEFBFzAZSNdlSwDcscK35wE8JWfH4TQpCV4.jpg",
-				"https://www.lelongindonesia.com/public/uploads/all/WBz7ptxq8hODhIklJi0bNk3wHgC3DTvWRd18Ae7s.jpg",
-				"https://www.lelongindonesia.com/public/uploads/all/X8KpISmgT10uDRGktHTWANjdJF7RIQOMQvqqjOA5.jpg",
-				"https://www.lelongindonesia.com/public/uploads/all/VGKxpT5i5BwoeNIYEjhFSeZ0O4ks45I9O6eYuWds.jpg",
-				"https://www.lelongindonesia.com/public/uploads/all/jx1rnFQBIFYyj2gZuJL8pb4Z6RPKwiN2l62IAMoj.jpg"
-			],
-			"stock": {
-				"enabled": true,
-				"quantity": 100,
-				"backorder": 1,
-				"status": 1,
-				"visible": false
-			},
-			"description": "<h3><span style=\"text-align: left;display: block\"><span style=\"color: rgb(101, 101, 101)\"><span style=\"background-color: #fff\">Benefit seller</span></span></span></h3><p><span style=\"text-align: left;display: block\"><span style=\"color: rgb(0, 0, 0)\"><span style=\"background-color: #fff\">✅Potensi margin Tinggi</span></span></span></p><p><span style=\"text-align: left;display: block\"><span style=\"color: rgb(0, 0, 0)\"><span style=\"background-color: #fff\">✅Modal sangat murah Langsung dari tangan pertama</span></span></span></p><p><span style=\"text-align: left;display: block\"><span style=\"color: rgb(0, 0, 0)\"><span style=\"background-color: #fff\">✅Harga rekomendasi adalah harga minimal untuk jual ecer/end user</span></span></span></p><p><span style=\"text-align: left;display: block\"><span style=\"color: rgb(0, 0, 0)\"><span style=\"background-color: #fff\">✅Produksi sendiri stock produk aman</span></span></span></p><p><span style=\"text-align: left;display: block\"><span style=\"color: rgb(0, 0, 0)\"><span style=\"background-color: #fff\">✅100% ORIGINAL</span></span></span></p><p><span style=\"text-align: left;display: block\"><span style=\"color: rgb(0, 0, 0)\"><span style=\"background-color: #fff\">✅Bisa COD</span></span></span></p><p></p><p>SHAZA CUTE SANDALS</p><p>Warna sangat kekinian dan ukuran yang pas dengan anak bunda tercinta</p><p>SIZE CHART</p><p>UKURAN 28 30 32 34</p><p>PANJANG KAKI 16,5 17,5 18,5 19,5</p><p><img src=\"https://cdn.inventro.id/uploads/2022/10/5669961665459198840.jpg\"></p><p>Ukuran dalam Satuan Centimeter</p><p>Note:</p><ul><li><p>Ukur Berdasarkan panjang kaki,hitung berapa cm panjangnya dan itulah panjang kaki anak Bunda</p></li><li><p>Jika panjang Kaki tidak sesuai dengan tabel diatas pilih yang mendekati</p><p>Contoh: Panjang kaki anak Bunda adalah 16 cm, Bunda bisa memilih Size 28 atau 30</p></li><li><p></p></li></ul><p>Perlu diperhatikan untuk lama produksi memakan waktu 3 minggu</p><p>Tapi kami akan usahakan sebelum produk menyentuh angka 50pcs kami akan langsung produksi ulang bila memang produk ini banyak permintaan di inventro</p>"
-		},
-		{
-			"id": 2,
-			"price": "20000",
-      "rating": 5,
-			"name": "Shaza Sandals",
-			"slug": "shaza-sandals",
-			"type": "simple",
-			"variations": {
-				"attributes": [],
-				"prices": [
-					"https://www.lelongindonesia.com/public/uploads/all/mUTJPeWOlM8OSsjhTtK0YtsYAWdUjTGTEBgFxLFn.jpg"
-				],
-				"multiple_variations": {
-					"enabled": false
-				}
-			},
-			"pictures": [
-				"https://www.lelongindonesia.com/public/uploads/all/mUTJPeWOlM8OSsjhTtK0YtsYAWdUjTGTEBgFxLFn.jpg"
-			],
-			"stock": {
-				"enabled": true,
-				"quantity": 380,
-				"backorder": 1,
-				"status": 1,
-				"visible": false
-			},
-			"description": "<h3><span style=\"text-align: left;display: block\"><span style=\"color: rgb(101, 101, 101)\"><span style=\"background-color: #fff\">Benefit seller</span></span></span></h3><p><span style=\"text-align: left;display: block\"><span style=\"color: rgb(0, 0, 0)\"><span style=\"background-color: #fff\">✅Potensi margin Tinggi</span></span></span></p><p><span style=\"text-align: left;display: block\"><span style=\"color: rgb(0, 0, 0)\"><span style=\"background-color: #fff\">✅Modal sangat murah Langsung dari tangan pertama</span></span></span></p><p><span style=\"text-align: left;display: block\"><span style=\"color: rgb(0, 0, 0)\"><span style=\"background-color: #fff\">✅Harga rekomendasi adalah harga minimal untuk jual ecer/end user</span></span></span></p><p><span style=\"text-align: left;display: block\"><span style=\"color: rgb(0, 0, 0)\"><span style=\"background-color: #fff\">✅Produksi sendiri stock produk aman</span></span></span></p><p><span style=\"text-align: left;display: block\"><span style=\"color: rgb(0, 0, 0)\"><span style=\"background-color: #fff\">✅100% ORIGINAL</span></span></span></p><p><span style=\"text-align: left;display: block\"><span style=\"color: rgb(0, 0, 0)\"><span style=\"background-color: #fff\">✅Bisa COD</span></span></span></p><p></p><p>SHAZA CUTE SANDALS</p><p>Warna sangat kekinian dan ukuran yang pas dengan anak bunda tercinta</p><p>SIZE CHART</p><p>UKURAN 28 30 32 34</p><p>PANJANG KAKI 16,5 17,5 18,5 19,5</p><p><img src=\"https://cdn.inventro.id/uploads/2022/10/5669961665459198840.jpg\"></p><p>Ukuran dalam Satuan Centimeter</p><p>Note:</p><ul><li><p>Ukur Berdasarkan panjang kaki,hitung berapa cm panjangnya dan itulah panjang kaki anak Bunda</p></li><li><p>Jika panjang Kaki tidak sesuai dengan tabel diatas pilih yang mendekati</p><p>Contoh: Panjang kaki anak Bunda adalah 16 cm, Bunda bisa memilih Size 28 atau 30</p></li><li><p></p></li></ul><p>Perlu diperhatikan untuk lama produksi memakan waktu 3 minggu</p><p>Tapi kami akan usahakan sebelum produk menyentuh angka 50pcs kami akan langsung produksi ulang bila memang produk ini banyak permintaan di inventro</p>"
-		},
-		{
-			"id": 3,
-      "rating": 5,
-			"price": "20000",
-			"name": "SHAZA SANDAL COKLAT",
-			"slug": "shaza-sandal-coklat",
-			"type": "simple",
-			"variations": {
-				"attributes": [],
-				"prices": [],
-				"multiple_variations": {
-					"enabled": false
-				}
-			},
-			"pictures": [
-				"https://www.lelongindonesia.com/public/uploads/all/aui40aOzcsxsWggdS9aWLtTK5PwccWNZO0qSdoUp.jpg"
-			],
-			"stock": {
-				"enabled": true,
-				"quantity": 10,
-				"backorder": 1,
-				"status": 1,
-				"visible": false
-			},
-			"description": "<p>SHAZA SANDAL COKLAT</p><p>Warna sangat kekinian dan ukuran yang pas dengan anak bunda tercinta</p><p></p><p>SIZE CHART</p><p>UKURAN 28 30 32 34</p><p>PANJANG KAKI 16,5 17,5 18,5 19,5</p><p><img src=\"https://cdn.inventro.id/uploads/2022/10/3518841665459162190.png\"></p><p>Ukuran dalam Satuan Centimeter</p><p>Note:</p><ul><li><p>Ukur Berdasarkan panjang kaki,hitung berapa cm panjangnya dan itulah panjang kaki anak Bunda</p></li><li><p>Jika panjang Kaki tidak sesuai dengan tabel diatas pilih yang mendekati</p><p>Contoh: Panjang kaki anak Bunda adalah 16 cm, Bunda bisa memilih Size 28 atau 30</p></li></ul><p>Perlu diperhatikan untuk lama produksi memakan waktu 3 minggu</p><p>Tapi kami akan usahakan sebelum produk menyentuh angka 50pcs kami akan langsung produksi ulang bila memang produk ini banyak permintaan di inventro</p>"
-		},
-		{
-			"id": 4,
-      "rating": 3,
-			"price": "20000",
-			"name": "KAHFI SANDAL",
-			"slug": "kahfi-sandal",
-			"type": "simple",
-			"variations": {
-				"attributes": [],
-				"prices": [],
-				"multiple_variations": {
-					"enabled": false
-				}
-			},
-			"pictures": [
-				"https://www.lelongindonesia.com/public/uploads/all/KRvD3Kwn4BtUTa1zYiJASngAiShUgQuD630OS3ah.jpg"
-			],
-			"stock": {
-				"enabled": true,
-				"quantity": 18,
-				"backorder": 1,
-				"status": 1,
-				"visible": false
-			},
-			"description": "<p>Kahfi Sandal</p><p>Warna Hitam sangat kekinian dan ukuran yang pas dengan anak bunda tercinta</p><p></p><p>SIZE CHART</p><p>UKURAN 28 30 32 34</p><p>PANJANG KAKI 16,5 17,5 18,5 19,5</p><p></p><p>Ukuran dalam Satuan Centimeter</p><p>Note:</p><ul><li><p>Ukur Berdasarkan panjang kaki,hitung berapa cm panjangnya dan itulah panjang kaki anak Bunda</p></li><li><p>Jika panjang Kaki tidak sesuai dengan tabel diatas pilih yang mendekati</p><p>Contoh: Panjang kaki anak Bunda adalah 16 cm, Bunda bisa memilih Size 28 atau 30</p></li></ul>"
-		}
+		image: 'https://asset.kompas.com/crops/RKyE9n689Ni8jPjt-iO_1jFuV0w=/203x225:749x589/1200x800/data/photo/2022/12/09/6392a51cdec7d.jpg',
+		name: 'Nasi Gudeg Jogja',
+		description:
+			'Gudeg Jogja gurih lengkap dengan Lorem ipsum dolor sitamet, consectetur adipisicing elit.',
+		price: '28.000',
+		category: 'hidangan-utama',
+		type: '⭐ Andalan',
+        quantity: 0,
+	},
+	{
+        image: 'https://sanex.co.id/wp-content/uploads/2024/11/2734.jpg',
+		name: 'Nasi Gudeg Goreng',
+		description:
+        'Gudeg Goreng gurih lengkap dengan Lorem ipsum dolor sitamet, consectetur adipisicing elit.',
+		price: '28.000',
+		category: 'hidangan-utama',
+		type: '⭐ Andalan',
+        quantity: 0,
+	},
+	{
+        image: 'https://cdn1-production-images-kly.akamaized.net/qre6SO9lOT9aiWSDufQLxZaOj_I=/640x360/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3117261/original/048100200_1588325749-030607000_1467613172-rawon-setan.jpg',
+		name: 'Rawon Daging Surabaya',
+		description:
+        'Rawon Daging Surabaya lengkap dengan Lorem ipsum dolor sitamet, consectetur adipisicing elit.',
+		price: '28.000',
+		category: 'hidangan-utama',
+		type: '⭐ Andalan',
+        quantity: 0,
+	},
+	{
+        image: 'https://buckets.sasa.co.id/v1/AUTH_Assets/Assets/p/website/medias/page_medias/resep_tongseng_solo.jpg',
+		name: 'Tongseng Kambing Solo',
+		description:
+        'Tongseng Kambing Solo lengkap dengan Lorem ipsum dolor sitamet, consectetur adipisicing elit.',
+		price: '28.000',
+		category: 'hidangan-utama',
+		type: '⭐ Andalan',
+        quantity: 0,
+	},
+	{
+        image: 'https://imgx.sonora.id/crop/0x0:0x0/x/photo/2023/03/29/64225543cbfdejpg-20230329033353.jpg',
+		name: 'Empal Gebuk Cirebon',
+		description:
+        'Empal Gebuk Cirebon lengkap dengan Lorem ipsum dolor sitamet, consectetur adipisicing elit.',
+		price: '28.000',
+		category: 'hidangan-utama',
+		type: '⭐ Andalan',
+        quantity: 0,
+	},
+	{
+        image: 'https://www.unileverfoodsolutions.co.id/dam/global-ufs/mcos/SEA/calcmenu/recipes/ID-recipes/chicken-&-other-poultry-dishes/pecel-madiun/main-header.jpg',
+		name: 'Pecel Sayur Madiun',
+		description:
+        'Pecel Sayur Madiun lengkap dengan Lorem ipsum dolor sitamet, consectetur adipisicing elit.',
+		price: '28.000',
+		category: 'hidangan-utama',
+		type: '⭐ Andalan',
+        quantity: 0,
+	},
 	],
 	"orders": []
 }
