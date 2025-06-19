@@ -53,6 +53,15 @@
       "category": "hidangan-utama",
       "type": "⭐ Andalan",
       "quantity": 0
+    },
+    {
+      "image": "https://cnc-magazine.oramiland.com/parenting/images/Porsi_Appetizer.width-800.format-webp.webp",
+      "name": "Porsi Appetizer",
+      "description": "Porsi appetizer biasanya lebih kecil dibandingkan dengan hidangan utama.",
+      "price": "28000",
+      "category": "hidangan-pembuka",
+      "type": "⭐ Andalan",
+      "quantity": 0
     }
   ],
   "voucher": [
