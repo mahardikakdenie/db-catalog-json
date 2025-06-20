@@ -85,6 +85,13 @@
       "code": "ULTAHDIKA",
       "discount": "1000",
       "type": "fixed_price"
+    },
+    },
+    {
+      "id": "#1",
+      "code": "ULTAHAAY",
+      "discount": "1000",
+      "type": "fixed_price"
     }
   ],
   "carts": [],
